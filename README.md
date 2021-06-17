@@ -8,7 +8,7 @@ After cloning the repository, make sure all directories and subdirectories conta
 
 ## Training, Evaluation, and Results
 
-dxCortex_example.m demonstrates how to set up, train, evaluate a basic dxCortex model without trees like those used in the child classifiers in the paper.  dxCortexForest_example.m demonstrates the same but for the dxCortex models with tree like those used in the top classifier in the hierarchies from the paper.  The results produced by the script are out-of-bag performance estimates on the synthetic development set and validation performance on the synthetic validation set.  
+dxCortex_example.m demonstrates how to set up, train, and evaluate a basic dxCortex model without trees like those used in the child classifiers in the paper.  dxCortexForest_example.m demonstrates the same but for the dxCortex models with tree like those used in the top classifiers in the hierarchies from the paper.  The results produced by the script are out-of-bag performance estimates on the synthetic development set and validation performance on the synthetic validation set.  
 
 
 ## Contributing
